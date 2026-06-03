@@ -622,5 +622,77 @@
         "group": "premium",
         "enabled": true,
         "priority": 22
+    },
+    {
+        "id": "senlin",
+        "name": "森林资源",
+        "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 23
+    },
+    {
+        "id": "semao",
+        "name": "色猫资源",
+        "baseUrl": "https://caiji.semaozy.net/inc/apijson_vod.php",
+        "group": "premium",
+        "enabled": true,
+        "priority": 24
+    },
+    {
+        "id": "lajiao",
+        "name": "辣椒资源",
+        "baseUrl": "https://apilj.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 24
+    },
+    {
+        "id": "lajiao",
+        "name": "幸资源",
+        "baseUrl": "https://xzybb2.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 25
+    },
+    {
+        "id": "lajiao",
+        "name": "大地资源",
+        "baseUrl": "https://dadiapi.com/feifei2",
+        "group": "premium",
+        "enabled": true,
+        "priority": 26
+    },
+    {
+        "id": "lajiao",
+        "name": "最色资源",
+        "baseUrl": "https://api.zuiseapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 27
+    },
+    {
+        "id": "lajiao",
+        "name": "豆豆资源",
+        "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 28
+    },
+    {
+        "id": "lajiao",
+        "name": "滴滴资源",
+        "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 29
+    },
+    {
+        "id": "lajiao",
+        "name": "丝袜资源",
+        "baseUrl": "https://siwazyw.tv/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 30
     }
 ]
